@@ -9,7 +9,7 @@ I'm passionate about **Web Development**, **Open Source**, and **Learning new te
 - 🔭 I’m currently working on **Next.js / React projects**
 - 🌱 Learning more about **TypeScript** and **Backend**
 - 💬 Ask me about **Frontend development**
-- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+- 📫 How to reach me: [yjcoyjco@gmail.com](mailto:yjcoyjco@gmail.com)
 
 ---
 
@@ -30,15 +30,14 @@ I'm passionate about **Web Development**, **Open Source**, and **Learning new te
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJQKR&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJQKR&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-link)
-[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=fff)](https://velog.io/@your-id)
-[![Blog](https://img.shields.io/badge/Blog-000000?logo=githubpages&logoColor=fff)](https://yourblog.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yunju1208)
+[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=fff)](https://velog.io/@yjcoyjco/posts)
 
 ---
 
