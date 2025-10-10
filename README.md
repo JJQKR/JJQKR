@@ -25,7 +25,6 @@ I'm passionate about **Web Development**, **Open Source**, and **Learning new te
 ![Zustand](https://img.shields.io/badge/Zustand-181717?logo=react&logoColor=fff)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
