@@ -3,7 +3,7 @@
 # 👋 Hi, I'm JJQKR, Yunju Kang!
 
 방문해 주셔서 고맙습니다.  
-🟣 프론트엔드 웹 개발자 강연주입니다. 
+🟣 프론트엔드 웹 개발자 강연주입니다. <br />
 🟣 백엔드 분야 및 새로운 기술 학습에 진심으로 열려 있습니다!
 
 ---
@@ -11,7 +11,6 @@
 ## 🌟 About Me
 - 🔭 Currently working on **Next.js / React projects**
 - 🌱 Learning more about **TypeScript** and **Backend**
-- 💬 Ask me about **Frontend development**
 - 📫 Contact me : [yjcoyjco@gmail.com](mailto:yjcoyjco@gmail.com)
 
 ---
